@@ -63,26 +63,4 @@ The `.env` file is excluded from Git using `.gitignore`.
 
 ```bash
 git clone https://github.com/nandni-codes/ATM-Management-System.git
-
-## 📸 Project Screenshots
-
-### Registration
-![Registration](screenshots/registration.png.png)
-
-### Registration Successful / Account Details
-![Registration Successful](screenshots/Registraction_succesful.png.png)
-
-### Login
-![Login](screenshots/login.png.png)
-
-### Logout
-![Logout](screenshots/logout.png.png)
-
-### Transaction
-![Transaction](screenshots/transaction.png.png)
-
-### Users Database
-![Users Table](screenshots/user_table.png.png)
-
-### Transactions Database
-![Transactions Table](screenshots/trancation_table.png.png)
+cd ATM-Management-System

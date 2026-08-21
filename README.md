@@ -59,12 +59,15 @@ The `.env` file is excluded from Git using `.gitignore`.
 
 ## ▶️ How to Run
 
+
+Toh final part aisa hona chahiye:
+
+```markdown
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/nandni-codes/ATM-Management-System.git
 cd ATM-Management-System
-## 📸 Project Screenshots
 
 ### Registration
 ![Registration](screenshots/registration.png)

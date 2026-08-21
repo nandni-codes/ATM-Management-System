@@ -1,3 +1,9 @@
+"""
+ATM Management System
+Developed by Nandni Wadhwa
+Copyright © 2026 Nandni Wadhwa
+"""
+
 import mysql.connector
 import os
 from dotenv import load_dotenv
